@@ -88,6 +88,14 @@ By committing and pushing your changes, you back up your work to remote storage.
 Continue to make, commit, and push changes to your branch until you are ready to ask for feedback.
 
 - Create a PR(pull request)
+https://github.com/J0s3Barbosa/branchingTest/compare/feature/jb-first-todo?expand=1
+when u access github, you'll see that there is a button "compare and pull request"
+you will be redirected to the page
+Open a pull request
+u'll be able to merge, check if there are comflicts or if u are Able to merge
+be aware of base branch and which one to compare
+
+
 Create a pull request to ask collaborators for feedback on your changes. Pull request review is so valuable that some repositories require an approving review before pull requests can be merged. If you want early feedback or advice before you complete your changes, you can mark your pull request as a draft. For more information, see "Creating a pull request."
 
 When you create a pull request, include a summary of the changes and what problem they solve. You can include images, links, and tables to help convey this information. If your pull request addresses an issue, link the issue so that issue stakeholders are aware of the pull request and vice versa. If you link with a keyword, the issue will close automatically when the pull request merges. For more information, see "Basic writing and formatting syntax" and "Linking a pull request to an issue."
